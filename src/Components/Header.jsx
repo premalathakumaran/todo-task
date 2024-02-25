@@ -6,7 +6,7 @@ function Header() {
    <div className='header'>
    <nav class="navbar navbar-dark bg-dark">
    <div class="container-fluid bg-dark">
-     <span class="navbar-brand mb-0 h1 bg-dark">My ToDo Page 😎</span>
+     <span class="navbar-brand mb-0 h1 bg-dark">ToDo Page</span>
    </div>
  </nav></div>
   )
